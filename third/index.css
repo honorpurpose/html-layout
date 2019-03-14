@@ -1,0 +1,50 @@
+.header {
+    background-color: darkgray;
+    height: 100px;
+    padding: 5px;
+}
+
+.upper-body {
+    text-align: center;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-family: sans-serif;
+}
+
+.logo-box {
+    height: 75px;
+    width: 75px;
+    background-color: steelblue;
+    margin-left: 14px;
+    margin-top: 12.5px;
+}
+
+.first-box {
+    height: 100px;
+    width: 100%;
+    background-color: steelblue;
+}
+
+.second-box {
+    height: 100px;
+    width: 100%;
+    background-color: lightblue;
+}
+
+.third-box {
+    height: 100px;
+    width: 100%;
+    background-color: olivedrab;
+}
+
+.fourth-box {
+    height: 100px;
+    width: 100%;
+    background-color: goldenrod;
+}
+
+body {
+    margin: 0px;
+}
